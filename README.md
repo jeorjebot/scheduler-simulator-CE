@@ -1,5 +1,5 @@
 # scheduler-simulator-CE
-A scheduler simulator project for Computer Architecture exam
+A scheduler simulator project for Operative System exam
 
 
 WORK IN PROGRESS
