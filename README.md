@@ -4,9 +4,9 @@ A scheduler simulator project for Operative System exam
 
 WORK IN PROGRESS
 
-da fare:
-- spiegozzo
-- come usare
+to do:
+- description
+- fix makefile
 - fflush
 
 parametri:
