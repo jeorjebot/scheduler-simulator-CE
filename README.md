@@ -7,7 +7,7 @@ The main goal was to simulate two scheduler, the first one preemptive and the se
 We have to simulate instructions, tasks, processors, cores, clock and schedulers. <br>
 The design specifications file is [there](docs/spec2017-2018.pdf).
 
-## IPC
+## IPC mechanisms
 We have to use and allocate:
 - fork
 - shared memory
