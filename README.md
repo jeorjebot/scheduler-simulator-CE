@@ -5,7 +5,7 @@ A scheduler simulator project for Operative Systems course at UniGe - University
 ## Project Goal
 The main goal was to simulate two scheduler, the first one preemptive and the second one not preemptive, test them on a (long) series of task and compare the output reports for each scheduler. <br>
 We have to simulate instructions, tasks, processors, cores, clock and schedulers. <br>
-The design specifications file is [there](docs/spec2017-2018.pdf).
+The design specifications file is [there](docs/spec2017-2018.pdf) (italian).
 
 ## IPC mechanisms
 We have to use and allocate:
