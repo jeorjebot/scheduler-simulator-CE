@@ -26,3 +26,6 @@ We have to use and allocate:
 - **-q** : time slot or quantum for the preemptive scheduling algorithm (round robin).
 - **-h | --help** : usage helper.
 
+
+## Authors
+This project was proudly manteined by **Giorgio Rossi** and **[Camilla Bianchi](https://github.com/camillina03)** (FFlush Team)
