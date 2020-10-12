@@ -1,4 +1,4 @@
-# scheduler-simulator-CE
+# Scheduler Simulator
 A scheduler simulator project for Operative Systems course at UniGe - University of Genoa.
 
 
